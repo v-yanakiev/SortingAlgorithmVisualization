@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\bin\Debug\SortingAlgorithmVisualization.exe.config
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\bin\Debug\SortingAlgorithmVisualization.exe
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\bin\Debug\SortingAlgorithmVisualization.pdb
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.Form1.resources
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.Form2.resources
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.Properties.Resources.resources
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.csproj.GenerateResource.cache
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.exe
+C:\Users\vasko\source\repos\SortingAlgorithmVisualization\SortingAlgorithmVisualization\obj\Debug\SortingAlgorithmVisualization.pdb
